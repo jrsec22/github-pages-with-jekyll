@@ -5,6 +5,31 @@ description: > # this means to ignore newlines until "baseurl:"
   Just an aspiring CyberSecurity professional learning how to make
   a website using github pages. I may populate this area with a resume
   and writeups along my journey at a later time. Thank you for viewing.
+  
+ 
+ <!DOCTYPE html>
+<html>
+<body>
+
+<h1>The onclick Event</h1>
+
+<p>The onclick event is used to trigger a function when an element is clicked on.</p>
+
+<p>Click the button to trigger a function that will output "Hello World" in a p element with id="demo".</p>
+
+<button onclick="myFunction()">Click me</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Hello World";
+}
+</script>
+
+</body>
+</html>
+
 
 # social links
 twitter_username: jrsec22 # DO NOT include the @ character, or else the build will fail!
