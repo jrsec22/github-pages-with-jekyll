@@ -1,13 +1,14 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: My Journey into CyberSecurity
+author: Jomar Rivera
+email: jrsec22@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Just an aspiring CyberSecurity professional learning how to make
+  a website using github pages. I may populate this area with a resume
+  and writeups along my journey at a later time. Thank you for viewing.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: jrsec22 # DO NOT include the @ character, or else the build will fail!
+github_username:  jrsec22 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
